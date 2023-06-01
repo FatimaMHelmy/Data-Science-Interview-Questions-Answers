@@ -75,6 +75,9 @@ It solves the problem of vanishing gradient on both sides by returning a value â
 
 * Softmax: it is usually used at the last layer for a classification problem because it returns a set of probabilities, where the sum of them is 1. Moreover, it is compatible with cross-entropy loss, which is usually the loss function for classification problems.
 
+![image](https://github.com/FatimaMHelmy/Data-Science-Interview-Questions-Answers/assets/84232181/70eb5afa-02c6-4bba-97ce-1f3e7df6caaf)
+
+
 
 ### Q3: You are using a deep neural network for a prediction task. After training your model, you notice that it is strongly overfitting the training set and that the performance on the test isnâ€™t good. What can you do to reduce overfitting? ###
 
